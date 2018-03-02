@@ -28,7 +28,9 @@ and missed deadlines.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
-
+* Hold each other accountable.
+* Transparency
+* Keep the group up to date on how programs are going along via text or e-mail
 
 
 
