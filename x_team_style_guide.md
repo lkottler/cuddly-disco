@@ -23,6 +23,8 @@
 ## Commenting style for public and private members of a class or interface:
 
 <brief statement of your team's commenting style>
+Comment on general methods, not necessarily on every methods (helper methods). 
+Also include clarification comments throughout methods.
 
 ### Examples
 
