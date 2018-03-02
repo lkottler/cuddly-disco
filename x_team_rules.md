@@ -10,16 +10,21 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-* After delineation of tasks, assignment will first be voluntary.
+* After delineation of tasks, assignment will first be voluntary. 
 * If there are more tasks to be assigned, Logan will use authoritative power to designate tasks.
 
-## How will we will track progress (and follow-up) on completion of tasks
+## How we will track progress (and follow-up) on completion of tasks
+
+* Group text message to post updates
+* GitHub commits
+* Group discussion over text and e-mail
 
 
+## How we will communicate difficulties with a task assigned to us
 
-## How will will communicate difficulties with a task assigned to us
-
-
+* Transparency of communication
+* Use each other as resources for help
+* All problems brought up in group text, or to Logan if preferred.
 
 ## How we will back up each other to ensure that deadlines are not missed
 
