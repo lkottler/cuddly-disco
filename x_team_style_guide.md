@@ -3,10 +3,9 @@
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
 ## Naming conventions
-* camelCase variables
-* relevant
 
-<brief statement describing your team's naming conventions>
+* naming of variables will be how we have typically been naming through cs300 and in cs400.
+* variables will be camelCase and relevant to what they describe.
 
 ### Examples
 * interfaces
