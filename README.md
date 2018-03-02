@@ -9,8 +9,9 @@
        * GitHub username 4: khanikar
        * GitHub username 5:
    * When did you complete this exercise? 
+       15:00
    * How long did it take your team to complete this exercise? 
-
+       1 hour
 ## Table of Contents
 
 1. TODO.md - contains instructions for what to do for this assignment
