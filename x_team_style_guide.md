@@ -1,6 +1,7 @@
 # X-Team 61 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We will strive to make our code clear and concise. Our style guide will be in accordance to the
+CS400 style guide.
 
 ## Naming conventions
 
