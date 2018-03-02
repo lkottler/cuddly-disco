@@ -1,4 +1,4 @@
-# X-Team NN Rules
+# X-Team 61 Rules
 
 These rules establish how our team will assign tasks,
 track progress on each task, and communicate with each other 
@@ -10,7 +10,8 @@ and missed deadlines.
 
 ## How we will assign (and reassign) tasks
 
-
+* After delineation of tasks, assignment will first be voluntary.
+* If there are more tasks to be assigned, Logan will use authoritative power to designate tasks.
 
 ## How will we will track progress (and follow-up) on completion of tasks
 
