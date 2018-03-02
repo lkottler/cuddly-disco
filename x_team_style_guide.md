@@ -1,6 +1,7 @@
 # X-Team 61 Style Guide
 
-<brief description of your team's opinion or philosophy regarding Style Guides>
+We will strive to make our code clear and concise. Our style guide will be in accordance to the
+CS400 style guide.
 
 ## Naming conventions
 
@@ -21,7 +22,6 @@
 
 ## Commenting style for public and private members of a class or interface:
 
-<brief statement of your team's commenting style>
 Comment on general methods, not necessarily on every methods (helper methods). 
 Also include clarification comments throughout methods.
 
