@@ -10,15 +10,23 @@ CS400 style guide.
 
 ### Examples
 * interfaces
+  * camel casing (beginning with a capital letter)
 * classes
+  * camel casing (beginning with a capital letter)
 * exception types
+  * camel casing (beginning with a capital letter)
 * fields
+  * camel casing
 * methods
+  * camel casing
 * parameters
+  * camel casing
 * local variables
+  * camel casing
 * instance constants
+  * camel casing
 * class constants
-  * UPPERCASE
+  * UPPERCASE with underscores between words
 
 ## Commenting style for public and private members of a class or interface:
 
