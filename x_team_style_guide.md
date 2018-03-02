@@ -36,6 +36,8 @@ Also include clarification comments throughout methods.
 ### Examples
 
 * classes
+ private static Class(){
+ }
 * fields
 * constructors
 * methods
