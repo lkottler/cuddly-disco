@@ -3,6 +3,8 @@
 <brief description of your team's opinion or philosophy regarding Style Guides>
 
 ## Naming conventions
+* camelCase variables
+* relevant
 
 <brief statement describing your team's naming conventions>
 
@@ -16,6 +18,7 @@
 * local variables
 * instance constants
 * class constants
+  * UPPERCASE
 
 ## Commenting style for public and private members of a class or interface:
 
